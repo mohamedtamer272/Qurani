@@ -1,0 +1,25 @@
+{
+    "islami": "Islami",
+    "qurani": "Qurani",
+    "ahadeth":"Ahadeth",
+    "suraname" :"Sura name",
+    "tasbehcount" :"Tasbeh count",
+    "radio":"Radio",
+    "sebha":"Sebha",
+    "quran":"Quran",
+    "setting":"Setting",
+    "quranradio":" Quran radio",
+    "sobhanallah":"Sobhan allah",
+    "alhamdllah":"Alhamdllah",
+    "allahakbar":"Allah akbar",
+    "group":"Group",
+    "count":"Count",
+    "reset":"Reset",
+    "language":"Language",
+    "english":"English",
+    "arabic":"Arabic",
+    "thememode":"Theme mode",
+    "lightmode":"Light mode",
+    "darkmode":"Dark mode"
+
+}

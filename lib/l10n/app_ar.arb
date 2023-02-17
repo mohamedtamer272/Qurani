@@ -1,0 +1,25 @@
+{
+    "islami": "إسلامي",
+    "qurani": "قراني",
+    "ahadeth":"احاديث",
+    "suraname" :"اسم السورة",
+    "tasbehcount" :" التسبيحات",
+    "radio":"الاذاعة",
+    "sebha":"السبحة",
+    "quran":"القران",
+    "setting":"الأعدادات",
+    "quranradio":" إذاعة القران الكريم",
+    "sobhanallah":"سبحان الله",
+    "alhamdllah":"الحمد لله",
+    "allahakbar":"الله اكبر",
+    "group":"المجموعة",
+    "count":"عدد",
+    "reset":"مسح",
+    "language":"اللغة",
+    "english":"الانجليزية",
+    "arabic":"العربية",
+    "thememode":"سمة",
+    "lightmode":"الوضع الصباحي",
+    "darkmode":"الوضع الليلي"
+
+}
